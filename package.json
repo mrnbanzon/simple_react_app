@@ -4,6 +4,7 @@
   "description": "This is a simple example of creating a react app from scratch!",
   "main": "index.js",
   "scripts": {
+    "watch": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
